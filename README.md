@@ -140,60 +140,76 @@ console.log(rafay.currentFocus());
 
 <br/>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
-### 🛍️ SHIPER STORE
+<img src="https://img.shields.io/badge/🛍️_SHIPER_STORE-6A0DAD?style=for-the-badge&logoColor=D4AF37&labelColor=0D0221" width="100%"/>
+
+<br/><br/>
+
 **MERN E-Commerce Platform**
 
 Full-stack shopping platform with product catalog, cart, secure checkout, and buttery-smooth UI.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-<a href="https://shiper.store" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-6A0DAD?style=for-the-badge&logoColor=D4AF37"/></a>
-
-</div>
-
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%">
-</div>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
-<div align="center">
+<a href="https://shiper.store" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-D4AF37?style=for-the-badge&logoColor=0D0221"/></a>
 
-### 📊 LEADSHUB
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/📊_LEADSHUB-8B5CF6?style=for-the-badge&logoColor=D4AF37&labelColor=0D0221" width="100%"/>
+
+<br/><br/>
+
 **Lead Management System**
 
 Client-facing platform to capture, organize & convert business leads through a dynamic dashboard.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-<a href="https://leadshub.us" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-8B5CF6?style=for-the-badge&logoColor=D4AF37"/></a>
-
-</div>
-
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%">
-</div>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
-<div align="center">
+<a href="https://leadshub.us" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-D4AF37?style=for-the-badge&logoColor=0D0221"/></a>
 
-### 📈 LEADSEDGE
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/📈_LEADSEDGE-A855F7?style=for-the-badge&logoColor=D4AF37&labelColor=0D0221" width="100%"/>
+
+<br/><br/>
+
 **Business Growth Platform**
 
 Modern full-stack web app for lead generation & client analytics with a polished, responsive UI.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<br/>
 
-<a href="https://leadsedge.us" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-A855F7?style=for-the-badge&logoColor=D4AF37"/></a>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-</div>
+<br/><br/>
+
+<a href="https://leadsedge.us" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-D4AF37?style=for-the-badge&logoColor=0D0221"/></a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -214,14 +230,22 @@ Modern full-stack web app for lead generation & client analytics with a polished
 <h3 align="center">🏆 Trophy Room</h3>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ABRafaycoder&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ABRafaycoder&theme=radical&no-frame=true&no-bg=false&margin-w=15&row=2&column=4"/>
 </div>
+
+> ⚠️ **Trophy setup:** trophies are based on your GitHub activity (stars, commits, PRs, followers, repos). If they show blank/locked right now, that's normal for a newer profile — they unlock automatically as your activity grows. No setup needed, this updates live.
 
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/ABRafaycoder/ABRafaycoder/output/github-contribution-grid-snake-dark.svg"/>
 </div>
+
+> ⚠️ **Snake setup required:** unlike the stats above, this one needs a one-time setup in YOUR repo before it appears (see the workflow code at the bottom of this file). Until you add it, this image will look broken — that's expected. Steps:
+> 1. In your `ABRafaycoder/ABRafaycoder` repo → create `.github/workflows/snake.yml`
+> 2. Paste the workflow code from the comment at the end of this README
+> 3. Go to the **Actions** tab → select **Generate Snake** → click **Run workflow**
+> 4. Wait ~1 minute, refresh your profile — the snake will now animate through your contribution graph
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%">
