@@ -1,41 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ABDUL%20RAFAY%20RIZWAN&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=MERN%20STACK%20DEVELOPER%20•/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6A0DAD,100:D4AF37&height=280&section=header&text=ABDUL%20RAFAY%20RIZWAN&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MERN%20STACK%20DEVELOPER&descAlignY=55&descSize=20&descColor=E8C4FF"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%">
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2500&pause=600&color=A78BFA&center=true&vCenter=true&width=800&height=45&lines=%3C+MERN+Stack+Developer+%2F%3E;MongoDB+•+Express+•+React+•+Node.js;Full+Ownership%3A+Frontend+%2B+Backend;Turning+Ideas+Into+Real+Products;Let%27s+Build+Something+Legendary+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=700&color=D4AF37&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer+%F0%9F%9A%80;MongoDB+•+Express+•+React+•+Node.js;I+Design+%2B+Code+%2B+Ship+Real+Products;Building+Scalable+Web+Applications;Let%27s+Build+Something+Legendary" />
 
 <br/><br/>
 
-<p>
-<a href="https://shiper.store" target="_blank"><img src="https://img.shields.io/badge/SHIPER.STORE-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27"/></a>
-<a href="https://leadshub.us" target="_blank"><img src="https://img.shields.io/badge/LEADSHUB.US-9333EA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27"/></a>
-<a href="https://leadsedge.us" target="_blank"><img src="https://img.shields.io/badge/LEADSEDGE.US-C026D3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27"/></a>
-</p>
-
-<br/>
-
-<p>
-<a href="mailto:RafayRizwan414@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://wa.me/923022750591" target="_blank"><img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abrafay0/" target="_blank"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/ABRafaycoder" target="_blank"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<a href="https://shiper.store" target="_blank"><img src="https://img.shields.io/badge/SHIPER.STORE-6A0DAD?style=for-the-badge&logo=vercel&logoColor=D4AF37&labelColor=0D0221"/></a>
+<a href="https://leadshub.us" target="_blank"><img src="https://img.shields.io/badge/LEADSHUB.US-8B5CF6?style=for-the-badge&logo=vercel&logoColor=D4AF37&labelColor=0D0221"/></a>
+<a href="https://leadsedge.us" target="_blank"><img src="https://img.shields.io/badge/LEADSEDGE.US-A855F7?style=for-the-badge&logo=vercel&logoColor=D4AF37&labelColor=0D0221"/></a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <h2 align="center">
 
@@ -58,13 +41,13 @@
 
 ### 🧬 Who I Am
 
-I'm a **MERN Stack Developer** who owns the entire product — from pixel-perfect frontend to bulletproof backend architecture. I don't just write code, I ship **real products** for **real clients**.
+I'm a **MERN Stack Developer** who owns the entire product — from pixel-perfect UI to bulletproof backend architecture. I don't just write code, I ship **real products** for **real clients**.
 
 ```javascript
-class AbdulRafayRizwan extends Developer {
+class AbdulRafayRizwan extends MERNDeveloper {
   constructor() {
     super();
-    this.role      = "Full Stack MERN Developer";
+    this.role      = "MERN Stack Developer";
     this.location  = "Pakistan 🇵🇰";
     this.stack     = ["MongoDB", "Express.js", "React.js", "Node.js"];
     this.projects  = ["shiper.store", "leadshub.us", "leadsedge.us"];
@@ -72,7 +55,7 @@ class AbdulRafayRizwan extends Developer {
   }
 
   currentFocus() {
-    return "Building fast, scalable, client-ready web apps";
+    return "Building fast, scalable, client-ready MERN applications";
   }
 
   philosophy() {
@@ -84,8 +67,8 @@ const rafay = new AbdulRafayRizwan();
 console.log(rafay.currentFocus());
 ```
 
-- ⚡ **End-to-End Development** — UI to Database, fully handled
-- 🎯 **Client-Delivered Projects** — live products, not demos
+- ⚡ **Full MERN Ownership** — MongoDB, Express, React & Node — every layer handled
+- 💼 **Client-Delivered Projects** — live products, not demos
 - 🎨 **Design-Driven Development** — clean, modern, high-converting UI
 - 🔐 **Secure & Scalable** — Auth systems, REST APIs, optimized DB design
 - 🚀 **Fast Execution** — deadlines respected, quality never compromised
@@ -113,24 +96,36 @@ console.log(rafay.currentFocus());
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,redux,git,github,figma,postman,docker,vercel,vscode,npm,graphql,firebase&theme=dark&perline=8"/>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/JWT_Auth-6A0DAD?style=for-the-badge&logo=jsonwebtokens&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/REST_API-6A0DAD?style=for-the-badge&logo=postman&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-6A0DAD?style=for-the-badge&logo=redux&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-6A0DAD?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37"/>
+
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://progress-bar.dev/95/?title=React.js&width=280&color=61DAFB"/>
-<img src="https://progress-bar.dev/90/?title=Node.js&width=280&color=339933"/>
+<img src="https://progress-bar.dev/95/?title=React.js&width=280&color=D4AF37"/>
+<img src="https://progress-bar.dev/90/?title=Node.js&width=280&color=D4AF37"/>
 
 <br/>
 
-<img src="https://progress-bar.dev/88/?title=Express.js&width=280&color=999999"/>
-<img src="https://progress-bar.dev/92/?title=MongoDB&width=280&color=47A248"/>
+<img src="https://progress-bar.dev/88/?title=Express.js&width=280&color=D4AF37"/>
+<img src="https://progress-bar.dev/92/?title=MongoDB&width=280&color=D4AF37"/>
 
 <br/>
 
-<img src="https://progress-bar.dev/85/?title=Tailwind%20CSS&width=280&color=06B6D4"/>
-<img src="https://progress-bar.dev/80/?title=TypeScript&width=280&color=3178C6"/>
+<img src="https://progress-bar.dev/85/?title=Tailwind%20CSS&width=280&color=D4AF37"/>
+<img src="https://progress-bar.dev/80/?title=TypeScript&width=280&color=D4AF37"/>
 
 </div>
 
@@ -151,7 +146,7 @@ Full-stack shopping platform with product catalog, cart, secure checkout, and bu
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Mongo-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<a href="https://shiper.store" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE-6D28D9?style=for-the-badge&logoColor=white"/></a>
+<a href="https://shiper.store" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE-6A0DAD?style=for-the-badge&logoColor=D4AF37"/></a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -163,7 +158,7 @@ Client-facing platform to capture, organize & convert business leads through a d
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Mongo-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<a href="https://leadshub.us" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE-9333EA?style=for-the-badge&logoColor=white"/></a>
+<a href="https://leadshub.us" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE-8B5CF6?style=for-the-badge&logoColor=D4AF37"/></a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -175,7 +170,7 @@ Modern full-stack web app for lead generation & client analytics with a polished
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Mongo-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<a href="https://leadsedge.us" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE-C026D3?style=for-the-badge&logoColor=white"/></a>
+<a href="https://leadsedge.us" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE-A855F7?style=for-the-badge&logoColor=D4AF37"/></a>
 
 </td>
 </tr>
@@ -189,11 +184,11 @@ Modern full-stack web app for lead generation & client analytics with a polished
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ABRafaycoder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=c9d1d9&count_private=true&rank_icon=github&border_radius=15" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABRafaycoder&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&border_radius=15" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ABRafaycoder&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=D4AF37&icon_color=A855F7&text_color=c9d1d9&count_private=true&rank_icon=github&border_radius=15" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABRafaycoder&theme=radical&hide_border=true&background=0D0221&ring=D4AF37&fire=A855F7&currStreakLabel=D4AF37&border_radius=15" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABRafaycoder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8&border_radius=15" width="45%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABRafaycoder&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=F472B6&point=ffffff" width="52%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABRafaycoder&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=D4AF37&text_color=c9d1d9&langs_count=8&border_radius=15" width="45%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABRafaycoder&theme=react-dark&hide_border=true&bg_color=0D0221&color=D4AF37&line=A855F7&point=ffffff" width="52%"/>
 
 </div>
 
@@ -221,25 +216,29 @@ Modern full-stack web app for lead generation & client analytics with a polished
 
 <br/>
 
-<p>
-<a href="mailto:rafayrizwan414@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://wa.me/923022750591" target="_blank"><img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abrafay0/" target="_blank"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/ABRafaycoder" target="_blank"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<br/>
-
-### 💬 *"Clean code always looks like it was written by someone who cares."*
-
-<img src="https://komarev.com/ghpvc/?username=ABRafaycoder&label=PROFILE+VIEWS&color=A78BFA&style=for-the-badge"/>
+<a href="mailto:rafayrizwan414@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-rafayrizwan414%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=180&section=footer"/>
+<a href="https://wa.me/923022750591" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0302--2750591-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/abrafay0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-abrafay0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+<a href="https://github.com/ABRafaycoder" target="_blank"><img src="https://img.shields.io/badge/GitHub-ABRafaycoder-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+### 💬 *"Clean code always looks like it was written by someone who cares."*
+
+<img src="https://komarev.com/ghpvc/?username=ABRafaycoder&label=PROFILE+VIEWS&color=D4AF37&style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:6A0DAD,100:0D0221&height=180&section=footer"/>
 
 </div>
 
