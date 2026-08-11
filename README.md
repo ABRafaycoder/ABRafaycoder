@@ -230,7 +230,7 @@ Modern full-stack web app for lead generation & client analytics with a polished
 <h3 align="center">🏆 Trophy Room</h3>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ABRafaycoder&theme=radical&no-frame=true&no-bg=false&margin-w=15&row=2&column=4"/>
+
 </div>
 
 > ⚠️ **Trophy setup:** trophies are based on your GitHub activity (stars, commits, PRs, followers, repos). If they show blank/locked right now, that's normal for a newer profile — they unlock automatically as your activity grows. No setup needed, this updates live.
@@ -238,8 +238,7 @@ Modern full-stack web app for lead generation & client analytics with a polished
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ABRafaycoder/ABRafaycoder/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+
 
 > ⚠️ **Snake setup required:** unlike the stats above, this one needs a one-time setup in YOUR repo before it appears (see the workflow code at the bottom of this file). Until you add it, this image will look broken — that's expected. Steps:
 > 1. In your `ABRafaycoder/ABRafaycoder` repo → create `.github/workflows/snake.yml`
