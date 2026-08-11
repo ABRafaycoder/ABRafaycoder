@@ -33,15 +33,22 @@
 
 </h2>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="65">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="65">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="65">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="65">
 
-<br/>
+<br/><br/>
 
 ### 🧬 Who I Am
 
 I'm a **MERN Stack Developer** who owns the entire product — from pixel-perfect UI to bulletproof backend architecture. I don't just write code, I ship **real products** for **real clients**.
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ```javascript
 class AbdulRafayRizwan extends MERNDeveloper {
@@ -55,7 +62,7 @@ class AbdulRafayRizwan extends MERNDeveloper {
   }
 
   currentFocus() {
-    return "Building fast, scalable, client-ready MERN applications";
+    return "Building fast, scalable, client-ready MERN apps";
   }
 
   philosophy() {
@@ -67,10 +74,10 @@ const rafay = new AbdulRafayRizwan();
 console.log(rafay.currentFocus());
 ```
 
-- ⚡ **Full MERN Ownership** — MongoDB, Express, React & Node — every layer handled
+- ⚡ **Full MERN Ownership** — every layer handled
 - 💼 **Client-Delivered Projects** — live products, not demos
-- 🎨 **Design-Driven Development** — clean, modern, high-converting UI
-- 🔐 **Secure & Scalable** — Auth systems, REST APIs, optimized DB design
+- 🎨 **Design-Driven Development** — clean, high-converting UI
+- 🔐 **Secure & Scalable** — Auth, REST APIs, optimized DB design
 - 🚀 **Fast Execution** — deadlines respected, quality never compromised
 
 </td>
@@ -114,18 +121,14 @@ console.log(rafay.currentFocus());
 
 <div align="center">
 
-<img src="https://progress-bar.dev/95/?title=React.js&width=280&color=D4AF37"/>
-<img src="https://progress-bar.dev/90/?title=Node.js&width=280&color=D4AF37"/>
-
-<br/>
-
-<img src="https://progress-bar.dev/88/?title=Express.js&width=280&color=D4AF37"/>
-<img src="https://progress-bar.dev/92/?title=MongoDB&width=280&color=D4AF37"/>
-
-<br/>
-
-<img src="https://progress-bar.dev/85/?title=Tailwind%20CSS&width=280&color=D4AF37"/>
-<img src="https://progress-bar.dev/80/?title=TypeScript&width=280&color=D4AF37"/>
+<img src="https://img.shields.io/badge/React.js-95%25-D4AF37?style=for-the-badge&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/Node.js-90%25-D4AF37?style=for-the-badge&labelColor=0D0221"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Express.js-88%25-D4AF37?style=for-the-badge&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/MongoDB-92%25-D4AF37?style=for-the-badge&labelColor=0D0221"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-85%25-D4AF37?style=for-the-badge&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/TypeScript-80%25-D4AF37?style=for-the-badge&labelColor=0D0221"/>
 
 </div>
 
@@ -135,46 +138,62 @@ console.log(rafay.currentFocus());
 
 <h2 align="center">🚀 Featured Live Projects</h2>
 
-<table align="center" width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
+<br/>
+
+<div align="center">
 
 ### 🛍️ SHIPER STORE
 **MERN E-Commerce Platform**
 
 Full-stack shopping platform with product catalog, cart, secure checkout, and buttery-smooth UI.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Mongo-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<a href="https://shiper.store" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE-6A0DAD?style=for-the-badge&logoColor=D4AF37"/></a>
+<a href="https://shiper.store" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-6A0DAD?style=for-the-badge&logoColor=D4AF37"/></a>
 
-</td>
-<td width="33%" valign="top" align="center">
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%">
+</div>
+
+<br/>
+
+<div align="center">
 
 ### 📊 LEADSHUB
 **Lead Management System**
 
 Client-facing platform to capture, organize & convert business leads through a dynamic dashboard.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Mongo-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<a href="https://leadshub.us" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE-8B5CF6?style=for-the-badge&logoColor=D4AF37"/></a>
+<a href="https://leadshub.us" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-8B5CF6?style=for-the-badge&logoColor=D4AF37"/></a>
 
-</td>
-<td width="33%" valign="top" align="center">
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%">
+</div>
+
+<br/>
+
+<div align="center">
 
 ### 📈 LEADSEDGE
 **Business Growth Platform**
 
 Modern full-stack web app for lead generation & client analytics with a polished, responsive UI.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Mongo-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<a href="https://leadsedge.us" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE-A855F7?style=for-the-badge&logoColor=D4AF37"/></a>
+<a href="https://leadsedge.us" target="_blank"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-A855F7?style=for-the-badge&logoColor=D4AF37"/></a>
 
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -205,7 +224,7 @@ Modern full-stack web app for lead generation & client analytics with a polished
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%">
 </div>
 
 <div align="center">
