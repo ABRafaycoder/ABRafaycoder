@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ABDUL%20RAFAY%20RIZWAN&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=MERN%20STACK%20DEVELOPER%20•%20FRONTEND%20+%20BACKEND&descAlignY=52&descSize=18&descColor=E0AAFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ABDUL%20RAFAY%20RIZWAN&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=MERN%20STACK%20DEVELOPER%20•/>
 
-<img src="https://user-images.githubusercontent.com/74038190/238200622-1cb1abbb-e34e-4a08-88f7-49b7e9b39c6c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%">
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2500&pause=600&color=A78BFA&center=true&vCenter=true&width=800&height=45&lines=%3C+MERN+Stack+Developer+%2F%3E;MongoDB+•+Express+•+React+•+Node.js;Full+Ownership%3A+Frontend+%2B+Backend;Turning+Ideas+Into+Real+Products;Let%27s+Build+Something+Legendary+%F0%9F%9A%80" />
 
 <br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
-
-<br/>
 
 <p>
 <a href="https://shiper.store" target="_blank"><img src="https://img.shields.io/badge/SHIPER.STORE-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27"/></a>
@@ -34,7 +30,12 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
 <h2 align="center">
 
@@ -92,13 +93,15 @@ console.log(rafay.currentFocus());
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-b29d-a67c5459cc31.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="100%">
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <h2 align="center">⚡ MERN Stack Arsenal</h2>
 
@@ -109,10 +112,6 @@ console.log(rafay.currentFocus());
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,redux,git,github,figma,postman,docker,vercel,vscode,npm,graphql,firebase&theme=dark&perline=8"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/dynamic-MERN%20FULL%20STACK-black?style=for-the-badge&color=6D28D9"/>
 
 </div>
 
@@ -135,15 +134,15 @@ console.log(rafay.currentFocus());
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <h2 align="center">🚀 Featured Live Projects</h2>
 
 <table align="center" width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="70"/>
 
 ### 🛍️ SHIPER STORE
 **MERN E-Commerce Platform**
@@ -157,8 +156,6 @@ Full-stack shopping platform with product catalog, cart, secure checkout, and bu
 </td>
 <td width="33%" valign="top" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="70"/>
-
 ### 📊 LEADSHUB
 **Lead Management System**
 
@@ -170,8 +167,6 @@ Client-facing platform to capture, organize & convert business leads through a d
 
 </td>
 <td width="33%" valign="top" align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" width="70"/>
 
 ### 📈 LEADSEDGE
 **Business Growth Platform**
@@ -186,7 +181,9 @@ Modern full-stack web app for lead generation & client analytics with a polished
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -212,13 +209,15 @@ Modern full-stack web app for lead generation & client analytics with a polished
 <img src="https://raw.githubusercontent.com/ABRafaycoder/ABRafaycoder/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <div align="center">
 
 ## 🤝 LET'S BUILD SOMETHING LEGENDARY
 
-<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5ff-4c26-b208-c8c1520477e0.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="400">
 
 <br/>
 
